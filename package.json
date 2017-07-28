@@ -1,0 +1,23 @@
+{
+  "name": "redux-form-grommet",
+  "version": "0.0.1",
+  "description": "Redux form bindings for the grommet ui library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvanlonden/redux-form-grommet.git"
+  },
+  "keywords": [
+    "redux-form",
+    "grommet"
+  ],
+  "author": "Melchert van Londen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvanlonden/redux-form-grommet/issues"
+  },
+  "homepage": "https://github.com/mvanlonden/redux-form-grommet#readme"
+}
